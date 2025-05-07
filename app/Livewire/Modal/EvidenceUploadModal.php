@@ -8,6 +8,7 @@ use Livewire\WithFileUploads;
 
 class EvidenceUploadModal extends Component
 {
+    # control de cambios rama Edison
     use WithFileUploads;
 
     public $open = false;
